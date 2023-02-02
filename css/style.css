@@ -65,14 +65,18 @@ h2 {
 h3 {
     color: white;
     margin-bottom: 1em;
+    text-align: left;
 }
 
 .testo{
     color: white;
+    text-align: left;
+    margin-bottom: 8px;
 }
 
 #email{
-    color: aquamarine;
+    color:#5FC2EB;
+    text-align: left;
     
 }
 
